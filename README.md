@@ -5,8 +5,8 @@ Github repo for the course code [here]("https://github.com/mikeckennedy/python-j
 
 Ten apps:
 -
-1. [Hello world](01_hello_world)
-2. [Guess the number game](02_guess_number)
+1. [Hello world](../tree/master/01_hello_world)
+2. [Guess the number game](../tree/master/02_guess_number)
 3. Birthday app
 4. Personal journal
 5. Weather client
