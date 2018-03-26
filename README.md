@@ -17,3 +17,8 @@ Ten apps:
 10. Movie lookup app
 
 Thanks for your interest.
+
+####Get in touch
+Twitter: [@endlesstrax](https://twitter.com/endlesstrax)
+
+Web: [rickywhite.net](http://rickywhite.net) 
