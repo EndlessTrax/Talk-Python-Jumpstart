@@ -5,9 +5,9 @@ Github repo for the course code [here]("https://github.com/mikeckennedy/python-j
 
 Ten apps:
 -
-1. [Hello world]("https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/01_Hello_World")
-2. [Guess the number game]("https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/02_Guess_Number")
-3. Birthday app
+1. [Hello world](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/01_Hello_World)
+2. [Guess the number game](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/02_Guess_Number)
+3. [Birthday app](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/03_Birthday_App)
 4. Personal journal
 5. Weather client
 6. Lol cats factory
