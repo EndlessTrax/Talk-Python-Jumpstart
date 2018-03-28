@@ -1,7 +1,7 @@
 # Talk-Python-Jumpstart
 My code for the "[Python Jumpstart by Building 10 Apps]("https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps")" course by Talk Python.
 
-Github repo for the course code [here]("https://github.com/mikeckennedy/python-jumpstart-course-demos").
+Github repo for the course code [here](https://github.com/mikeckennedy/python-jumpstart-course-demos).
 
 Ten apps:
 -
