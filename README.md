@@ -8,9 +8,9 @@ Ten apps:
 1. [Hello world](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/01_Hello_World)
 2. [Guess the number game](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/02_Guess_Number)
 3. [Birthday app](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/03_Birthday_App)
-4. Personal journal
-5. Weather client
-6. Lol cats factory
+4. [Personal journal](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/04_Personal_Journal)
+5. [Weather client](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/05_Weather_Client)
+6. [Lol cats factory](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/06_LOL_Cats)
 7. Wizard battle
 8. File searcher
 9. Real estate analyzer
