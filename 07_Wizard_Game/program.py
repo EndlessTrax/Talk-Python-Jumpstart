@@ -1,7 +1,7 @@
 import random
-from datetime import time
+import time
 
-from actors import Wizards, Creature
+from actors import Wizards, Creature, SmallAnimal, Dragon
 
 
 def main():
@@ -19,11 +19,11 @@ def print_header():
 def game_loop():
 
     creatures = [
-        Creature('Toad', 1),
+        SmallAnimal('Toad', 1),
         Creature('Tiger', 12),
-        Creature('Bat', 3),
-        Creature('Dragon', 50),
-        Creature('Evil Wizard', 1000)
+        SmallAnimal('Bat', 3),
+        Dragon('Dragon', 50, 50, True),
+        Wizards('Evil Wizard', 1000)
     ]
 
     hero = Wizards('Gandolf', 75)
@@ -53,6 +53,10 @@ def game_loop():
                 print(' * A {} of level {}'. format(c.name, c.level))
         else:
             print('Ok, exiting the game... bye!')
+            break
+
+        if not creatures:
+            print('Well Done. You defeated all the evils of the forest!')
             break
 
         print()
