@@ -11,7 +11,7 @@ Ten apps:
 4. [Personal journal](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/04_Personal_Journal)
 5. [Weather client](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/05_Weather_Client)
 6. [Lol cats factory](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/06_LOL_Cats)
-7. Wizard battle
+7. [Wizard battle](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/07_Wizard_Game)
 8. File searcher
 9. Real estate analyzer
 10. Movie lookup app
