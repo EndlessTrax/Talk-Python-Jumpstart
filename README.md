@@ -12,9 +12,9 @@ Ten apps:
 5. [Weather client](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/05_Weather_Client)
 6. [Lol cats factory](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/06_LOL_Cats)
 7. [Wizard battle](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/07_Wizard_Game)
-8. File searcher(https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/08_File_Searcher)
-9. Real estate analyzer(https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/09_Real_Estate_Analysis)
-10. Movie lookup app(https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/10_Movie_Search)
+8. [File searcher(]https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/08_File_Searcher)
+9. [Real estate analyzer](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/09_Real_Estate_Analysis)
+10. [Movie lookup app](https://github.com/RWhiteDev/Talk-Python-Jumpstart/tree/master/10_Movie_Search)
 
 Thanks for your interest.
 
